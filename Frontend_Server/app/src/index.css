@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #76e6f0;
+  padding: 25px;
+  margin: 0px;
+}
+
+h1 {
+  margin:0px; 
+}
+
+h2, p, ul, li {
+  font-family: sans-serif;
+}
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+
+ul.header {
+  background-color: rgb(17, 17, 17);
+  padding: 0;
+}
+
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+ul.content {
+  background-color: rgba(255, 255, 255, 0.995);
+  padding: 20px;
+}
+
+ul.content h2 {
+  padding: 0;
+  margin: 0;
+}
+
+ul.content li {
+  margin-bottom: 20px;
+}
+
+
+
